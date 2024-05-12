@@ -14,16 +14,10 @@ Este projeto utiliza o poder da inteligência artificial do Google para auxiliar
 
 ## Como Utilizar
 
-1. **Instalação:**
-   - Certifique-se de ter o Python instalado em sua máquina.
-   - Instale as bibliotecas necessárias:
-     ```bash
-     pip install -q -U google-generativeai ipywidgets
-     ```
-2. **Configuração da API do Google:**
-   - Obtenha sua chave de API do Google Generative AI: [https://developers.google.com/generative-ai](https://developers.google.com/generative-ai)
+1. **Configuração da API do Google:**
+   - Obtenha sua chave de API do Google Generative AI: [[https://developers.google.com/generative-ai](https://aistudio.google.com/app/apikey?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=)](https://aistudio.google.com/app/apikey?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=)
    - Insira sua chave de API no arquivo do projeto.
-3. **Execução:**
+2. **Execução:**
    - Abra o arquivo do projeto em um notebook do colab
    - Execute o código.
    - Utilize a interface interativa para inserir as informações e visualizar as respostas da IA. 
